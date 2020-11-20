@@ -1,2 +1,2 @@
-# Image Processing course: Lab 1
-Topic: Image resizing and color enhancement
+# Automatic Control 2 experimental exercise "Gyroscope"
+Topic: State-feedback LQR (in French)
