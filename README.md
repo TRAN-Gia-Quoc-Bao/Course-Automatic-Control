@@ -3,7 +3,7 @@ I took two Automatic Control courses. Automatic Control 1 (AC1) was about RST-st
 
 Contents:
 
-1. AC1 poster about RST-structure PID and state-feedback controller (in English)
+1. AC1 poster "Ball on beam" about RST-structure PID and state-feedback controller (in English)
 
 2. AC1 experimental exercise "Aerotherme" about RST-structure PID controller (in French)
 
