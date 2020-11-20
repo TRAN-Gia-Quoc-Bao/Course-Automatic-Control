@@ -12,3 +12,5 @@ Contents:
 4. AC2 experimental exercise "CARV" about system identification and RST-structure PID controller (in French)
 
 5. AC2 experimental exercise "Gyroscope" about state-feedback LQR (in French)
+
+![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Automatic-Control/blob/main/logoUGA.png)
