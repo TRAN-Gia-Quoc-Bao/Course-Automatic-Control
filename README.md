@@ -13,4 +13,6 @@ Contents:
 
 5. AC2 experimental exercise "Gyroscope" about state-feedback LQR (in French)
 
+By: Gia Quoc Bao TRAN 
+
 ![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Automatic-Control/blob/main/logoUGA.jpg)
